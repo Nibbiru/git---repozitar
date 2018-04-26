@@ -6,7 +6,7 @@ int main ( )
 
   // toto je komentar
   // toto je dalsi novy komentar
-
+  // a tohle je jeste jeden komentar :)
 
   return 0;
   
